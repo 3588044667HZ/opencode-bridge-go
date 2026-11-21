@@ -1,0 +1,19 @@
+{
+  "permission": {
+    "laptop_start_process": "ask",
+    "laptop_read_process_output": "allow",
+    "laptop_interact_with_process": "ask",
+    "laptop_force_terminate": "ask",
+    "laptop_list_sessions": "allow",
+    "laptop_capture_screenshot": "ask",
+    "laptop_get_system_info": "allow",
+    "laptop_get_clipboard": "ask",
+    "laptop_set_clipboard": "ask",
+    "laptop_read_file": "ask",
+    "laptop_write_file": "ask",
+    "laptop_list_directory": "allow",
+    "laptop_stat_file": "allow",
+    "laptop_list_staged_files": "allow",
+    "laptop_delete_staged_file": "ask"
+  }
+}

@@ -1,0 +1,8 @@
+/bin/
+/data/
+/dist/
+/tmp-workspace/
+/logs/
+/.token
+/.env
+*.exe
